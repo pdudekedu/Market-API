@@ -1,0 +1,12 @@
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\bin\Debug\netcoreapp3.1\Market.Data.deps.json
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\bin\Debug\netcoreapp3.1\Market.Data.dll
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.AssemblyInfoInputs.cache
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.AssemblyInfo.cs
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\bin\Debug\netcoreapp3.1\Market.Data.pdb
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.dll
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.pdb
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\bin\Debug\netcoreapp3.1\Market.Data.runtimeconfig.json
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\bin\Debug\netcoreapp3.1\Market.Data.runtimeconfig.dev.json
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.genruntimeconfig.cache
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.csproj.CoreCompileInputs.cache
+D:\Osobiste\Rekrutacja Luxoft\Market\Market.Data\obj\Debug\netcoreapp3.1\Market.Data.csprojAssemblyReference.cache
